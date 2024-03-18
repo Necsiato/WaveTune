@@ -1,0 +1,7 @@
+<vector android:height="24dp" android:viewportHeight="78"
+    android:viewportWidth="98" android:width="31dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000"
+        android:pathData="M4,63.434H23.05C36.529,63.434 47.457,52.515 47.457,39.048C47.457,25.581 58.386,14.662 71.864,14.662H93.993M83.564,25.317L94,14.891V14.427L83.564,4M4,14.655H23.05C36.529,14.655 47.457,25.574 47.457,39.041C47.457,52.508 58.386,63.427 71.864,63.427H93.993M83.564,52.779L94,63.206V63.669L83.564,74.096"
+        android:strokeColor="@color/icon_color_for_KOCMOC" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="7"/>
+</vector>

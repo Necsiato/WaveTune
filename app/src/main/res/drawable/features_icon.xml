@@ -1,0 +1,4 @@
+<vector android:height="24dp" android:viewportHeight="58"
+    android:viewportWidth="58" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/icon_color_for_KOCMOC" android:pathData="M53.041,5.481C46.429,-1.827 35.604,-1.827 29.007,5.481C22.381,-1.827 11.571,-1.827 4.959,5.481C-1.653,12.79 -1.653,24.739 4.959,32.048L28.042,57.563C28.569,58.146 29.431,58.146 29.958,57.563L53.041,32.048C59.653,24.739 59.653,12.774 53.041,5.481Z"/>
+</vector>

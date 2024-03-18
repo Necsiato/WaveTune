@@ -1,0 +1,12 @@
+<vector android:height="24dp" android:viewportHeight="208.04"
+    android:viewportWidth="263.04" android:width="32dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000"
+        android:pathData="M198.14,204.02l-194.12,-0l-0,-145.85l194.12,-0z"
+        android:strokeColor="@color/icon_color_for_KOCMOC" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M228.58,30.75l0,119.12l30.44,0l0,-145.85l-194.12,0l0,26.73l163.68,0z"
+        android:strokeColor="@color/icon_color_for_KOCMOC" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M198.14,58.18l0,118.41l30.44,0l0,-145.84l-194.12,0l0,27.43l163.68,0z"
+        android:strokeColor="@color/icon_color_for_KOCMOC" android:strokeWidth="15"/>
+</vector>
